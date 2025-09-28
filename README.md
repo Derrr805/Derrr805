@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Darrel Immanuel  
 
 🎓 **Computer Science Student** | 💻 Passionate about **Web Development** & **Software Engineering**  
-📍 Based in Indonesia | 🌱 Currently learning **Backend Development** & **Cloud Computing**
+📍 Based in Indonesia | 🌱 Currently learning **Frontend Development** & **Cloud Computing**
 
 ---
 
