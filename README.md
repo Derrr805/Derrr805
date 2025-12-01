@@ -21,13 +21,6 @@ Currently building my projects to showcase my skills and learning journey.
 
 ---
 
-### 🧩 Projects  
-Currently working on building my first few projects —  
-Stay tuned for updates! 🚀  
-*(Repositories will appear here soon)*  
-
----
-
 ### ⚙️ Skills & Tools  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
