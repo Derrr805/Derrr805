@@ -4,7 +4,7 @@
 ---
 
 ### 💡 About Me
-I'm passionate about **Software Engineering**, **Web Development**, and **Cloud Computing**.  
+I'm passionate about **Software Engineering**, **Web Development**, **Mobile App Development**, **Cloud Engineering & DevOps**, **Quality Assurance & Testing**  
 Currently building my first projects to showcase my skills and learning journey.
 
 🌱 Currently learning:  
