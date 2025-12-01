@@ -4,11 +4,13 @@
 ---
 
 ### 💡 About Me
-I'm passionate about **Software Engineering**, **Web Development**, **Mobile App Development**, **Cloud Engineering & DevOps**, **Quality Assurance & Testing**  
+I'm passionate about **Software Engineering**, **Web Development**, **Mobile App Development**, **Cloud Engineering & DevOps**, and **Quality Assurance & Testing**  
 Currently building my first projects to showcase my skills and learning journey.
 
 🌱 Currently learning:  
-- Frontend & backend development (React, Node.js)  
+- Frontend & backend development (React, Node.js)
+- Application & Software Development
+- Mobile Programming  
 - Algorithm & data structures  
 - Deployment & cloud basics  
 
